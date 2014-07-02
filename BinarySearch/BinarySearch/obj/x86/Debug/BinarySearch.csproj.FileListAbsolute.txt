@@ -1,0 +1,6 @@
+C:\Users\pepe\AppData\Local\Temporary Projects\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\pepe\AppData\Local\Temporary Projects\BinarySearch\obj\x86\Debug\BinarySearch.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\BinarySearch\obj\x86\Debug\BinarySearch.pdb
+C:\Users\pepe\documents\visual studio 2010\Projects\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.pdb
